@@ -45,7 +45,7 @@ const barChartDay = ref<string[]>([]);
 const barChartAmount = ref<number[]>([]);
 const getAllExpenses = async () => {
   barChartDay.value = getLastWeekLabels();
-  const response = await axios.get('http://localhost:3030/get-expense');
+  const response = await axios.get('https://smart-expense-manager-410654816815.us-central1.run.app/get-expense');
   const expenses: Expense[] = response.data;
   barChartAmount.value = filterLastWeekSum(expenses);
   pieChartData.value = expenses.map((item) => ({
