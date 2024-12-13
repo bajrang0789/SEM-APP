@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-expense-manager-444504",
+  "private_key_id": "fd66f56d2d9d3f751d6020b856af9c27671094cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6SUebhRHg6KO3\nVjrPFa0OiNqkbZRJ4Cx9RmUJuxuLY5kB7hvhLsZic+PL3I+/NJZuN8b1vem+IsjF\n9yIIumrxcSQ1ElJMAK0JTlNfqtT+PyS81Vaz+AHQD8Ki15DxT7Mb5AwBklZTqpCr\nBSwTF0e4CTdLbiYa+XuSQdg1N8SjtJnEGv1AVhI7KXm7PfAxi4vjnhgzYf/13PiF\nWcoJcbY7QI9Af6I9pWwCXrGrKtipID45298Y0knYu6lWE8zbUXF570005bAUApj/\npWzpO5vTri4ApCnFgxwUB4CfX8084Ed7YsN5Lg0aZY49O571zlC3Qo1WtexmA5We\nsXHHaaVRAgMBAAECggEAEeBQV9M4OP36H/DNaevplHh7isXdMg2qF0d3EKz84q5n\nE3FXCY/kh7QZSwnaXX3dZaxCknhsAsvxulWR1YaWFp9F2zXr4dE6yabTh12sXM2Q\nZ/KNBG4rNl0cz2WiShXc2TNUF56EXDkE8vRnG1njjvyLatiiHXqNaiaZadn1K8RR\nh1QvJU/cPkKk5iiObK77C98z4Btw3UAged6rO+Q9MYkyA4bG6LqZQPCV8aDaUNcF\ndyOmurwklhWFL/roQ/aEu/eit018gO1jXV8ypOg7xpeIqUc3zbHaGvHA6ZdAJFgH\nEe7IYikbuVX2/d9aBWYo2wSOz6TIcat15wvNmn/c5QKBgQD+24EmaCTFooDFbcPE\nuRH2PFv5eHp4IyYXTZ0T/7Sby2Iszf8lKofMAB+c/b1MyukmORtoj/6TbrGS1qtZ\n8+dTK43Dcb6EIo32W+xBB+1FDlB0/p0diZBqKFqHnc1X++t1YPWxhz5QYD4nH7ax\n5Lmu1Gkv/hdN0w/n0Ubesh62nwKBgQC7HxPGa3d0KFsSTQLLzT/AmquEpTH7pOul\nVt8QDpA95qx05f5LBsLZ88L5EfB1iG8XwI2/qtzG5BJXE+ZNQZZL9WH1RPTJF5n9\n1Ktz7OmF6mVdd8ESI90122Yma4Xuc7W1pr7gU6bL+U00kKmbQgB4+CmFjjSJOcTX\n/nA0y7fODwKBgFw4y/Q87UmC8zv960Btg91pnBKbER4WAfuevz90YUObBiyWYkRt\nrnQYe1gQzYZTSqjlM1DUAlgRTzqGab0EMGn9MbBOoZUo99v1CXnCx44cjuq3E92T\nYOm5LoEyjhLPezWfX2jdOqRVH0iDBlY7ISHthR6zwHUN8gx9wzpklA6bAoGABbI1\nfOXKlhugYhc8DY4q8acDr58DvYBQuBDD644179x0xX421nvXNKFJ/yD/q+RCVXvE\nFOCTpe5NbJ8rdJCZjahjmf7GYNS6GFMAASBmH3B6M3UwyGeVFU2fd23wfsjA8E2q\nI9QIEM9+/SmmMBa7QvNy+CDTEpZSmqyhJ8pHxxsCgYEAs/XARdce+aDdC0zxQB0Z\nbNI0MOXlX4O8cTudccaWjEKrdoaRxQ57OeYIV89694xY3PPuTb7UMJkt0bacCG3V\n/k+qTMpM5PbU6ERyh9Y/IBBQlz5e0dsYNOtSQ0bb+6E0P7AlHoQZRCW+VRlBO++/\nO6ci+D7P4zdmwW51LkozehI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "semapp@smart-expense-manager-444504.iam.gserviceaccount.com",
+  "client_id": "104574671121129800959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/semapp%40smart-expense-manager-444504.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
