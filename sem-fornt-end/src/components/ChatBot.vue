@@ -126,7 +126,7 @@ const onFileSelected = async (event: Event) => {
     try {
       const base64Image = (reader.result as string).split(',')[1]; // Extract Base64 data
 
-      const response = await axios.post('http://localhost:3030/upload-recipt', {
+      const response = await axios.post('https://smart-expense-manager-410654816815.us-central1.run.app/upload-recipt', {
         image: base64Image,
       });
       console.log("recipt response: ", response.data);
@@ -147,7 +147,7 @@ const sendMessage = async () => {
   if (userInput.trim()) {
     messages.value.push({ text: userInput, user: true });
     input.value = '';
-    const response = await axios.get('http://localhost:3030/send-prompt', {
+    const response = await axios.get('https://smart-expense-manager-410654816815.us-central1.run.app/send-prompt', {
           params: {
             prompt: userInput,
           },
