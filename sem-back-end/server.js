@@ -24,7 +24,7 @@ initializeApp(firebaseConfig);
 const fireStoreDb = getFirestore();
 app.use(bodyParser.json());
 app.use(cors({
-  origin: 'https://smart-expense-manager-fe-410654816815.us-central1.run.app/' // Replace with your frontend's origin
+  origin: '*' // Replace with your frontend's origin
 }));
 
 app.get('/ping', async (req, res) => {

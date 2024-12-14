@@ -1,4 +1,10 @@
+# git checkout -b bpanigrah/build
+git pull origin bpanigrah/build
 gcloud config set project bajrang-444504
-bash sem-fornt-end/script.sh
-bash sem-back-end/script.sh
+pushd sem-fornt-end
+bash script.sh
+popd
+pushd sem-back-end
+bash script.sh
+popd
 
