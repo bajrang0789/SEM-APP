@@ -61,7 +61,7 @@
 <script lang="ts" setup>
 import { ref } from 'vue';
 import axios from 'axios';
-import { error } from 'console';
+// import { error } from 'console';
 interface Message {
   text?: string;
   user: boolean;
